@@ -17,7 +17,6 @@ inputs:
     default: "World"
 
 
-
 runs:
 
   using: "docker"
